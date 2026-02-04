@@ -1,3 +1,4 @@
+
 public class Department {
     private int department_id;
     private String department_name;
